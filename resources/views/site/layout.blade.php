@@ -84,7 +84,6 @@
                     <li><a href="{{route('menu')}}">Menu</a></li>
                     <li><a href="{{route('about')}}">About</a></li>
                     <li><a href="{{route('res')}}">Reservations</a></li>
-                    <li><a href="/styles">Styles</a></li>
                 </ul> <!-- s-header__nav-links -->
 
                 <div class="s-header__nav-bottom">
